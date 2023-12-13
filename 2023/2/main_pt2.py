@@ -1,3 +1,5 @@
+# Input data: https://adventofcode.com/2023/day/2/input
+
 red, green, blue = 12, 13, 14
 data = open("2023/2/data.txt").read().split("\n")
 

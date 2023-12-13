@@ -1,3 +1,5 @@
+# Input data: https://adventofcode.com/2023/day/1/input
+
 data = open("2023/1/data.txt").read().split("\n")
 
 total = 0
