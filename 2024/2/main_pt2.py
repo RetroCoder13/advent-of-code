@@ -26,7 +26,8 @@ def checkRow(vals,n):
 for index,item in enumerate(data):
     vals = item.split(" ")
     if checkRow(vals,0) == True:
-        print(index)
         total += 1
+    else:
+        print(False)
 
 print(total)
